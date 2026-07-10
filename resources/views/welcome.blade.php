@@ -10,5 +10,6 @@
 <body>
     <h1>Welcome to the home page.</h1>
     <p>This is a simple Laravel application.</p>
+    <p>To run this application, make sure you have Docker installed and running on your machine. Then, follow the instructions in the README file to build and run the Docker containers.</p>   
 </body>
 </html>
